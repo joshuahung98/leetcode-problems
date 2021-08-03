@@ -1,0 +1,12 @@
+Notes
+
+Trees:
+In-Order Traversal
+	- print left branch, current node, then right branch
+	- for BST, this visits nodes in ascending order
+Pre-Order Traversal
+	- visits current node before child nodes
+	- root always first value visited
+Post-Order Traversal:
+	- visits current node after child nodes
+	- root always last node visited
